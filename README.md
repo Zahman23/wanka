@@ -1,1 +1,1 @@
-# wanka teknit
+# wanka teknik
