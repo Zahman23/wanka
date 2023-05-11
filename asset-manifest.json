@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wanka/static/css/main.dfa1a02f.css",
+    "main.js": "/wanka/static/js/main.d849c69b.js",
+    "static/media/sample-sparepart.jpg": "/wanka/static/media/sample-sparepart.42056970265a7ce536b1.jpg",
+    "static/media/sample-matres3.jpg": "/wanka/static/media/sample-matres3.11074a5fd8627232e662.jpg",
+    "static/media/sample-matres2.jpg": "/wanka/static/media/sample-matres2.060e9c36140cb0a8e382.jpg",
+    "static/media/sample-matres.jpg": "/wanka/static/media/sample-matres.90a811c07f737556d494.jpg",
+    "static/media/sample-sparepart2.jpg": "/wanka/static/media/sample-sparepart2.41168f57faf3769c77d6.jpg",
+    "static/media/sample molding.jpeg": "/wanka/static/media/sample molding.ca79321a704930ec9bc3.jpeg",
+    "static/media/spare-part.jpg": "/wanka/static/media/spare-part.6f3545758d39478b7e93.jpg",
+    "static/media/molding.jpg": "/wanka/static/media/molding.163d642d3e301ffd8ea9.jpg",
+    "static/media/sample karet.jpeg": "/wanka/static/media/sample karet.3dac7d8bc3282a270dd6.jpeg",
+    "static/media/sample karet-2.jpeg": "/wanka/static/media/sample karet-2.38817304920dccbaaa29.jpeg",
+    "static/media/hero.jpg": "/wanka/static/media/hero.dcea30871e6bda232d0d.jpg",
+    "static/media/logo.svg": "/wanka/static/media/logo.b521a898489cfa7dc3863d7e83be3cc1.svg",
+    "index.html": "/wanka/index.html",
+    "main.dfa1a02f.css.map": "/wanka/static/css/main.dfa1a02f.css.map",
+    "main.d849c69b.js.map": "/wanka/static/js/main.d849c69b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa1a02f.css",
+    "static/js/main.d849c69b.js"
+  ]
+}
